@@ -16,13 +16,13 @@ h1 {
 	font-weight: bold;
 	margin-top: 50px;
 	font-family: Courier New;
-	text-shadow: 3px 4px 6px gray;
+	text-shadow: 3px 4px 6px black;
 
 
 }
 
 h2 {
-	color: gray;
+	color: lightgray;
 	font-size: 22px;
 	font-weight: normal;
 	margin-top: -45px;
