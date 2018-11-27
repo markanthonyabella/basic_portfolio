@@ -1,37 +1,50 @@
 body {
-	background: url(../images/bg1.jpeg) no-repeat center center fixed;
+	background: url(../images/bg2.jpeg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	font-family: 'Black Han Sans' , sans-serif;
 	text-align: center;
+	
+
 }
 
 h1 {
 	color: black;
 	font-size: 50px;
-	font-weight: normal;
-	margin-bottom: 0;
+	font-weight: bold;
+	margin-top: 50px;
+	font-family: Courier New;
+
 }
 
 h2 {
-	color: blue;
-	font-size: 18px;
+	color: lightblue;
+	font-size: 25px;
 	font-weight: normal;
-	margin-bottom: 0;
+	margin-top: -45px;
+	font-style: oblique;
+	font-family: Courier New;
+
 }
 
 .bio {
 	color: orange;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: normal;
-	margin-bottom: 0;
+	margin-top: 50px;
+	font-family: Georgia;
+	padding-left: 300px;
+	padding-right: 300px;
+	text-align: justify;
+	text-indent: 50px;
+	
 }
 .me{
 	height:200px;
 	border-radius: 100%;
 	border-style: solid;
-	border-color: black;
+	border-color: lightblue;
 	margin-top: 50px;
 }	
