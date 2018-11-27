@@ -11,21 +11,24 @@ body {
 }
 
 h1 {
-	color: black;
+	color: lightblue;
 	font-size: 50px;
 	font-weight: bold;
 	margin-top: 50px;
 	font-family: Courier New;
+	text-shadow: 3px 4px 6px gray;
+
 
 }
 
 h2 {
-	color: lightblue;
-	font-size: 25px;
+	color: gray;
+	font-size: 22px;
 	font-weight: normal;
 	margin-top: -45px;
 	font-style: oblique;
 	font-family: Courier New;
+	text-shadow: 3px 4px 6px black;
 
 }
 
