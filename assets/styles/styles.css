@@ -38,9 +38,10 @@ h2 {
 	font-weight: normal;
 	margin-top: 50px;
 	font-family: Georgia;
-	text-align: center;
-	text-indent: 50px;
 	text-align: justify;
+	text-indent: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
 	
 }
 .me{
